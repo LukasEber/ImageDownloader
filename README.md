@@ -3,7 +3,7 @@ A simple downloader for images in console output
 
 ## Installation
 Clone the repository in Visual Studio and run it  
-https://github.com/lukaseber9/ImageDownloader.git  
+https://github.com/LukasEber/Minigames.git
 
 ## Usage
 The program is a downloader for all pictures (.jpg, .png etc)  
